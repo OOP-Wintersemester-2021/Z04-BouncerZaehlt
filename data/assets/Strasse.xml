@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+    <bouncer x="0" y="13" />
+    <obstacle x="14" y="14" />
+	<obstacle x="13" y="14" />
+	<obstacle x="12" y="14" />
+	<obstacle x="11" y="14" />
+	<obstacle x="10" y="14" />
+	<obstacle x="9" y="14" />
+	<obstacle x="8" y="14" />
+	<obstacle x="7" y="14" />
+	<obstacle x="6" y="14" />
+	<obstacle x="5" y="14" />
+	<obstacle x="4" y="15" />
+	<obstacle x="3" y="14" />
+	<obstacle x="2" y="14" />
+	<obstacle x="1" y="14" />
+	<obstacle x="0" y="14" />
+	
+    <color  x="3" y="13" value="GREEN" />
+	<color  x="2" y="13" value="RED" />
+	<color  x="1" y="13" value="GREEN" />
+	<color  x="0" y="14" value="GREEN" />
+	
+</map>
